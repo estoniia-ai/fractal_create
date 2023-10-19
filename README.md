@@ -2,6 +2,11 @@
 
 This Python script uses Pygame to visualize the Mandelbrot set, a fractal that's defined as the set of complex numbers for which a particular function does not diverge when iterated from zero.
 
+Original Mandelbrot Set    |  Zoom Level 1             | Zoom Level 2
+:-------------------------:|:-------------------------:|:-------------------------:
+<img width="712" alt="original" src="https://github.com/estoniia-ai/fractal_create/assets/15941300/b4c446fc-a1bf-46fd-ba05-2e0caeb14e2d"> | <img width="712" alt="zoom1" src="https://github.com/estoniia-ai/fractal_create/assets/15941300/f5ee7e37-0718-448d-8f65-70bf8f3ea83c"> | <img width="712" alt="zoom2" src="https://github.com/estoniia-ai/fractal_create/assets/15941300/124519de-6627-494e-b5d4-dd10941ad8c0">
+
+
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
